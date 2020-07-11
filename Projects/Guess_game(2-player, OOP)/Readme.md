@@ -1,1 +1,1 @@
-2 player guessing game. Takes user names as input, decides who goes first and asks players to guess the number randomly chosen by computer. First to guess wins.
+2 player guessing game. Takes user names as input, decides who goes first and asks players to guess the number randomly chosen by computer. Includes different hints based on how far off players are from the number. First to guess wins.
