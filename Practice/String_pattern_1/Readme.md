@@ -1,3 +1,0 @@
-abcd = abbcccdddd
-
-xyz = xyyzzz
