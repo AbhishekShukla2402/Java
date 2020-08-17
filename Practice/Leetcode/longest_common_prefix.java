@@ -4,7 +4,7 @@ public class longest_common_prefix {
 
 
     public static void main(String[] args) {
-        String[] strs = {"flower", "flow", "ghght"};
+        String[] strs = {"flower", "flow", "fhght"};
         if(strs.length==0)
         {
             System.out.println("");
@@ -18,7 +18,7 @@ public class longest_common_prefix {
             while(strs[i].indexOf(prefix)!=0)
             {
                 prefix = prefix.substring(0, prefix.length()-1);
-                System.out.println(prefix);
+                //System.out.println(prefix);
             }
 
         }
