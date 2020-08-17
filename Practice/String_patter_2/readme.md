@@ -1,3 +1,0 @@
-abcdefg = aBcDeFg
-
-xyz = xYz
